@@ -73,7 +73,7 @@ function App() {
   return (
     <div>
 
-      <h1>Gerenciamento de Veículos</h1>
+      <h1>Gerenciamento de Veículos.</h1>
 
 
       <form onSubmit={handleSubmit}>
